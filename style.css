@@ -1,0 +1,27 @@
+body{
+    text-align: center;
+}
+.line{
+    height: 6px;
+    background-color: darkseagreen;
+    width:70px;
+    margin: 8px auto;
+}
+h1{
+    font-size: 40px;
+}
+#mycarousel{
+    background-color:darkcyan;
+}
+#mycarousel img{
+    
+    height:300px;
+    margin-top: 35px;
+}
+.carousel-inner p {
+    
+    margin-top: 15px;
+    margin-bottom: 15px;
+    color:white;
+    font-size:20px;
+}
